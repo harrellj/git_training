@@ -19,6 +19,8 @@ def main():
     # Add your own hello function to letters.py
     # Then call that function from here...
 
+    letters.hello_oriana("Today isn't necessarily Wednesday, Joe. Gosh, your function needs to be more intelligent... ;)")
+
     # All done, say goodbye
     letters.goodbye_world()
 
