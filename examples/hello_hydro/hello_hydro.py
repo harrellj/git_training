@@ -21,6 +21,8 @@ def main():
 
     letters.hello_oriana("Today isn't necessarily Wednesday, Joe. Gosh, your function needs to be more intelligent... ;)")
 
+    letters.hello_diana("finally cleaning out my email inbox")    
+
     # All done, say goodbye
     letters.goodbye_world()
 
