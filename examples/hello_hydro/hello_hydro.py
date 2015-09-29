@@ -25,6 +25,8 @@ def main():
 
     letters.hello_diana('finally cleaning out my email inbox')
 
+    letters.hello_yifan('I am learning git today')
+
     # All done, say goodbye
     letters.goodbye_world()
 
